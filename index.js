@@ -43,6 +43,6 @@ bot.on("message", async message =>{
             )
             )
         }
-    } // end of prefix function
+    } // end of the prefix function
 })
 bot.login("token here") // you will find it at (https://discord.com/developers/applications)
